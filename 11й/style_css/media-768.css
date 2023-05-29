@@ -1,0 +1,116 @@
+@media (max-width:900px) {
+.header__container {
+height: 69px;
+}
+
+.nav {
+height: 731px;
+}
+
+.hero {
+height: 662px;
+}
+
+.swiper-slide {
+padding-top: 155px;
+padding-left: 42px;
+padding-right: 40px;
+}
+
+.hero__content-heading {
+font-size: 50px;
+line-height: 66px;
+}
+.hero__content-text {
+font-size: 18px;
+}
+
+.hero__content-btn {
+padding: 25px 38px;
+}
+
+.about-us__content-left {
+min-height: 650px;
+}
+
+.about-us__text-left {
+max-width: 366px;
+}
+
+.about-us__inner {
+padding: 34px 41px 34px 40px;
+}
+
+.about-us__right-item {
+padding: 35px 46px 33px 166px;
+background-position: left 40px top 67px ;
+background-size: 17%;   
+}
+
+.work__list {
+justify-content: space-between;
+}
+
+.tab-content {
+flex-direction: column-reverse;
+}
+.work-right {
+padding-top: 0;
+width: 100%;
+}
+
+.work-left {
+width: 100%;
+}
+
+.work-right {
+padding-bottom: 35px;
+}
+
+.work__text {
+margin-bottom: 24px;
+}
+
+.questions {
+padding-bottom: 62px;
+}
+
+.questions__title {
+margin-right: 100px;
+max-width: 570px;
+font-size: 20px;
+line-height: 23px;
+}
+
+.footer__container {
+flex-direction: column-reverse;    
+}
+
+.footer-right{
+width: 81%;
+}
+
+.form__textarea {
+margin-bottom: 35px;
+}
+
+.form__inner {
+margin-bottom: 50px;
+}
+
+.form__btn {
+padding: 19px 37px;
+}
+
+.footer-list {
+display: none;
+}
+.footer__logo {
+margin-bottom: 15px;
+}
+
+.footer__icon {
+flex-shrink: 0;
+}
+
+}
